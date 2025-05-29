@@ -44,3 +44,4 @@ c:\Users\Eula Sabrina\dev\Game\bin\Debug\net8.0\Content\background_music.ogg
 c:\Users\Eula Sabrina\dev\Game\bin\Debug\net8.0\Content\background_music.xnb
 c:\Users\Eula Sabrina\dev\Game\bin\Debug\net8.0\Content\HudFont.xnb
 c:\Users\Eula Sabrina\dev\Game\bin\Debug\net8.0\Content\victory_background.xnb
+c:\Users\Eula Sabrina\dev\Game\obj\Debug\net8.0\game.sourcelink.json

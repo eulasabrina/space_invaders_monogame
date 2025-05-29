@@ -1,0 +1,41 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos temporales de Visual Studio Code
+.vscode/
+
+# Archivos de configuración de usuario de Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos temporales del sistema
+*.tmp
+*.log
+*.bak
+
+# Configuración local
+.config/
+
+# Archivos de depuración
+*.pdb
+
+# Archivos generados
+*.exe
+*.dll
+
+# Archivos de imagen temporales o caches
+*.db
+Thumbs.db
+ehthumbs.db
+
+# Archivos de publicación
+*.publishsettings
+
+# Mac OS
+.DS_Store
+
+# Windows
+desktop.ini
