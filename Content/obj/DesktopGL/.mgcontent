@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/Users/Eula Sabrina/dev/Game/Content/background_music.wav</File>
+    <File>c:/Users/Eula Sabrina/dev/Game/Content/background.png</File>
+    <File>c:/Users/Eula Sabrina/dev/Game/Content/bullet.png</File>
+    <File>c:/Users/Eula Sabrina/dev/Game/Content/DefaultFont.spritefont</File>
+    <File>c:/Users/Eula Sabrina/dev/Game/Content/enemy_bullet.png</File>
+    <File>c:/Users/Eula Sabrina/dev/Game/Content/enemy.png</File>
+    <File>c:/Users/Eula Sabrina/dev/Game/Content/gameover_background.png</File>
+    <File>c:/Users/Eula Sabrina/dev/Game/Content/HudFont.spritefont</File>
+    <File>c:/Users/Eula Sabrina/dev/Game/Content/player.png</File>
+    <File>c:/Users/Eula Sabrina/dev/Game/Content/shoot.wav</File>
+    <File>c:/Users/Eula Sabrina/dev/Game/Content/victory_background.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

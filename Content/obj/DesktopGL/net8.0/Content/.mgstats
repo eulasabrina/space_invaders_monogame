@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Users/Eula Sabrina/dev/Game/Content/background_music.wav","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/Content/background_music.xnb","SongProcessor","SongContent",42140750,134,3.2812886
+"c:/Users/Eula Sabrina/dev/Game/Content/background.png","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",2515,262229,0.2064192
+"c:/Users/Eula Sabrina/dev/Game/Content/bullet.png","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/Content/bullet.xnb","TextureProcessor","Texture2DContent",689,2009,1.3784012
+"c:/Users/Eula Sabrina/dev/Game/Content/DefaultFont.spritefont","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/Content/DefaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",487,70681,0.2153044
+"c:/Users/Eula Sabrina/dev/Game/Content/enemy_bullet.png","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/Content/enemy_bullet.xnb","TextureProcessor","Texture2DContent",273,1417,0.1905153
+"c:/Users/Eula Sabrina/dev/Game/Content/enemy.png","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/Content/enemy.xnb","TextureProcessor","Texture2DContent",3619,34693,0.004037
+"c:/Users/Eula Sabrina/dev/Game/Content/gameover_background.png","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/Content/gameover_background.xnb","TextureProcessor","Texture2DContent",3132,262229,0.0069204
+"c:/Users/Eula Sabrina/dev/Game/Content/HudFont.spritefont","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/Content/HudFont.xnb","FontDescriptionProcessor","SpriteFontContent",487,37913,0.1572406
+"c:/Users/Eula Sabrina/dev/Game/Content/player.png","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/Content/player.xnb","TextureProcessor","Texture2DContent",3797,33685,0.0050792
+"c:/Users/Eula Sabrina/dev/Game/Content/shoot.wav","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/Content/shoot.xnb","SoundEffectProcessor","SoundEffectContent",107494,107521,0.4311519
+"c:/Users/Eula Sabrina/dev/Game/Content/victory_background.png","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/Content/victory_background.xnb","TextureProcessor","Texture2DContent",2880,262229,0.1931333

@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Users/Eula Sabrina/dev/Game/Content/background_music.wav","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/background_music.xnb","SongProcessor","SongContent",42140750,134,3.2593148
+"c:/Users/Eula Sabrina/dev/Game/Content/background.png","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",2515,262229,0.2557797
+"c:/Users/Eula Sabrina/dev/Game/Content/bullet.png","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/bullet.xnb","TextureProcessor","Texture2DContent",689,2009,0.0052923
+"c:/Users/Eula Sabrina/dev/Game/Content/DefaultFont.spritefont","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/DefaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",487,70681,0.1195827
+"c:/Users/Eula Sabrina/dev/Game/Content/enemy_bullet.png","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/enemy_bullet.xnb","TextureProcessor","Texture2DContent",273,1417,0.1806505
+"c:/Users/Eula Sabrina/dev/Game/Content/enemy.png","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/enemy.xnb","TextureProcessor","Texture2DContent",3619,34693,0.0074929
+"c:/Users/Eula Sabrina/dev/Game/Content/gameover_background.png","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/gameover_background.xnb","TextureProcessor","Texture2DContent",3132,262229,0.0085429
+"c:/Users/Eula Sabrina/dev/Game/Content/HudFont.spritefont","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/HudFont.xnb","FontDescriptionProcessor","SpriteFontContent",487,37913,0.01238
+"c:/Users/Eula Sabrina/dev/Game/Content/player.png","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/player.xnb","TextureProcessor","Texture2DContent",3797,33685,0.004697
+"c:/Users/Eula Sabrina/dev/Game/Content/shoot.wav","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/shoot.xnb","SoundEffectProcessor","SoundEffectContent",107494,107521,0.3992072
+"c:/Users/Eula Sabrina/dev/Game/Content/victory_background.png","c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/victory_background.xnb","TextureProcessor","Texture2DContent",2880,262229,0.1849047

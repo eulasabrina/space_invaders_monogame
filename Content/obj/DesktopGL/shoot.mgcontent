@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>c:/Users/Eula Sabrina/dev/Game/Content/shoot.wav</SourceFile>
+  <SourceTime>2025-05-21T16:35:45.4862468+02:00</SourceTime>
+  <DestFile>c:/Users/Eula Sabrina/dev/Game/Content/bin/DesktopGL/shoot.xnb</DestFile>
+  <DestTime>2025-05-22T14:32:29.0862165+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2025-04-05T12:10:54+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2025-04-05T12:10:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
